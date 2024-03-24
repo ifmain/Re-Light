@@ -36,5 +36,7 @@ Re-light operates primarily through `game.py`, a PyQt5 application that offers a
 - **Adjusting Light Properties**: Use the radius, height factor, and falloff sliders to fine-tune the appearance of the light source. The color button allows you to change the light's color.
 - **Reprocessing Images**: The Gradio web service can be used to reprocess images with different effects, such as adjusting brightness, contrast, and more.
 
+![Screen](screenshot.png)
+
 ## Note
 The Re-light project combines the power of desktop and web-based applications to provide a unique tool for image editing. By manipulating light and shadow in images, users can achieve highly realistic and creative effects, making it an excellent tool for photographers, designers, and enthusiasts alike.

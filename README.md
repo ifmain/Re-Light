@@ -40,3 +40,11 @@ Re-light operates primarily through `game.py`, a PyQt5 application that offers a
 
 ## Note
 The Re-light project combines the power of desktop and web-based applications to provide a unique tool for image editing. By manipulating light and shadow in images, users can achieve highly realistic and creative effects, making it an excellent tool for photographers, designers, and enthusiasts alike.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improving this project, feel free to open an issue or a pull request.
+
+## License
+
+All code provided in this repository is released under the MIT License. Please note that third-party AI models and libraries used may be subject to their own licenses.
